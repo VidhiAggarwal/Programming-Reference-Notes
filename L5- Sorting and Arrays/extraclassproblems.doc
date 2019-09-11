@@ -1,0 +1,24 @@
+
+
+Some Extra Class Problems - : 
+
+1. Given two sorted arrays such the arrays may have some common elements. Find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. We can switch from one array to another array only at common elements.
+Expected time complexity is O(m+n) where m is the number of elements in ar1[] and n is the number of elements in ar2[].
+
+Examples:
+ Input:  ar1[] = {2, 3, 7, 10, 12, 15, 30, 34}
+        ar2[] = {1, 5, 7, 8, 10, 15, 16, 19}
+Output: 122
+
+
+2. Find The Largest Substring With All Unique Characters. For Ex- abcddajhelhcb answer is - dajhel
+
+3. Given two strings S and T, check if there exists a substring  in  S  which is anagram of T. 
+
+4. Given a string, find the longest substring that contains only two unique characters. For example, given "abcbbbbcccbdddadacb", the longest substring that contains 2 unique character is "bcbbbbcccb".
+missisiipi - answer is - issisii
+
+5. Given a Number . Fint the number of permutations of the same digits of the number which are greater than the given number.
+
+(Digits May Be Distinct or Non-Distinct)
+
